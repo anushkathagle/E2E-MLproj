@@ -15,7 +15,6 @@ joblib==1.4.2
 kiwisolver==1.4.7
 MarkupSafe==3.0.2
 matplotlib==3.9.2
--e git+https://github.com/anushkathagle/E2E_proj1.git@33123c0424e1cc83d2e68a89f2b774fe521d8916#egg=mlproject
 numpy==1.26.4
 packaging==24.2
 pandas==2.2.3
